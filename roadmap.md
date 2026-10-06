@@ -1,0 +1,5 @@
+- [x] Confirm existing template status; user chose Muslim-only because this checkout has no Hindu template.
+- [x] Build separate Muslim theme configuration and shared wedding data structure.
+- [x] Create original illustration assets and complete mobile-first invitation sections.
+- [x] Verify mobile/desktop appearance and interactions.
+- [x] Verify tests and preview diagnostics.
